@@ -57,11 +57,6 @@ def put_a_ugly_mark():
 
 def get_ugglyest_phone_by_marker():
     for phone in old_phones:
-        if phone["ugly"] exists:
-            return  phone["ugly"]
-        else:
-            return ""
-
         if phone.get("ugly", "") != "":
             return phone
 
