@@ -16,6 +16,7 @@ old_phones = [
         "model": "BlackBerry Bold 9700",
         "color": "white"
     },
+    
     {
         "name": "Samsung",
         "model": "Galaxy J5",
